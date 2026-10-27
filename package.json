@@ -1,0 +1,27 @@
+{
+	"name": "dark2026-catppuccin-mocha",
+	"displayName": "Dark 2026 (Catppuccin Mocha)",
+	"description": "VS Code Dark 2026 workbench UI with Catppuccin Mocha syntax highlighting",
+	"version": "1.0.0",
+	"publisher": "custom",
+	"engines": {
+		"vscode": "^1.80.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark 2026 (Catppuccin Mocha)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark2026-catppuccin-mocha.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1793102509371,
+		"targetPlatform": "undefined",
+		"size": 53235
+	}
+}
